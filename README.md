@@ -302,4 +302,4 @@ The opcode rotr rotates the stack to the bottom.
 
 Authors
 
-Thabang Kganana - Thabangx10
+Thabang kganana - Thabangx10
